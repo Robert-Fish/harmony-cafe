@@ -1,0 +1,84 @@
+body{
+  margin-top: 70px;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: Poppins;
+}
+
+p{
+  font-family: Roboto;
+}
+
+.navbar-inverse{
+  border: 0;
+  font-family: Poppins;
+  background-color: #3f3d4e;
+}
+
+.navbar-brand{
+  font-size: 20px;
+  color: white !important;
+  font-weight: bold;
+}
+
+#home h1{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+#home h2{
+  font-size: 30px;
+}
+
+#home img{
+  width: 90%;
+  margin-left: 60px;
+}
+
+#home right{
+  margin-top: 90px;
+}
+
+.jumbotron{
+  background-color: #3f3d4e !important;
+}
+
+.img-coffee img{
+  box-shadow: 5px 5px 5px black;
+
+}
+
+.jumbotron-text{
+  color: white !important;
+  font-size: 40px !important;
+}
+
+.img-responsive{
+  margin: 0 auto;
+}
+
+.menu{
+  font-size: 30px;
+  text-decoration: underline;
+}
+.menu-img{
+  box-shadow: 2px 2px 2px black;
+}
+
+.maps{
+  padding-top: 10px !important;
+  height: 300px !important;
+}
+
+#contactus{
+  background: url(../img/carousal-4.jpg);
+  padding: 40px;
+  color: white;
+  border-top: #333 7px solid;
+  border-bottom: #333 7px solid;
+}
+
+Footer{
+  padding: 40px;
+}
